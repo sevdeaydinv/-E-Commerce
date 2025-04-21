@@ -1,0 +1,47 @@
+/* site.css */
+
+/* Genel Sayfa Stilleri */
+body {
+    font-family: 'Roboto', sans-serif; /* Modern yazý tipi */
+    background-color: #f8f9fa; /* Sayfa arka plan rengi */
+}
+
+/* Navbar Özelleþtirmeleri */
+.navbar {
+    background-color: #007bff; /* Ana mavi renk */
+}
+
+    .navbar a {
+        color: white !important; /* Linklerin beyaz olmasý */
+    }
+
+        .navbar a:hover {
+            color: #f8f9fa !important; /* Hoverda beyaz olmasý */
+        }
+
+.navbar-toggler {
+    border-color: #007bff;
+}
+
+/* Footer Tasarýmý */
+.footer {
+    background-color: #007bff;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+    .footer a {
+        color: #f8f9fa;
+    }
+
+        .footer a:hover {
+            color: #f8f9fa;
+        }
+
+/* Responsive Ayarlar */
+@media (max-width: 576px) {
+    .navbar {
+        background-color: #333; /* Mobilde koyu navbar */
+    }
+}
