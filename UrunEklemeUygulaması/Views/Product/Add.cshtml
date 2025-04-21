@@ -1,0 +1,131 @@
+﻿@model UrunEklemeUygulaması.Models.Product
+
+@{
+    ViewData["Title"] = "Ürün Ekle";
+}
+
+<style>
+    body {
+        background: linear-gradient(135deg, #fdfbfb 0%, #ebedee 100%);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .card {
+        border-radius: 16px;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+        background: #ffffff;
+        overflow: hidden;
+        border: none;
+    }
+
+    .card-header {
+        background: linear-gradient(135deg, #007bff, #0056b3);
+        color: white;
+        padding: 20px;
+        text-align: center;
+    }
+
+        .card-header h4 {
+            margin: 0;
+            font-weight: 700;
+            font-size: 1.4rem;
+        }
+
+    label {
+        font-weight: 600;
+        margin-bottom: 5px;
+        color: #333;
+    }
+
+    .form-control {
+        border-radius: 10px;
+        padding: 12px;
+        border: 1px solid #ccc;
+        box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.05);
+        transition: border 0.3s ease;
+    }
+
+        .form-control:focus {
+            border-color: #007bff;
+            box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+        }
+
+    .btn-success {
+        background: linear-gradient(135deg, #28a745, #218838);
+        color: white;
+        font-weight: 600;
+        padding: 14px;
+        font-size: 1.1rem;
+        border-radius: 30px;
+        border: none;
+        box-shadow: 0 4px 12px rgba(40, 167, 69, 0.4);
+        transition: all 0.3s ease-in-out;
+    }
+
+        .btn-success:hover {
+            background: linear-gradient(135deg, #34d058, #28a745);
+            transform: scale(1.05);
+            box-shadow: 0 6px 20px rgba(40, 167, 69, 0.6);
+        }
+
+    .alert {
+        border-radius: 8px;
+        font-weight: 500;
+    }
+
+    footer, .footer, .text-muted {
+        display: none !important;
+    }
+</style>
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header">
+                    <h4>Ürün Ekleme Formu</h4>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Add" method="post">
+                        <div class="mb-4">
+                            <label asp-for="Name" class="form-label">Ürün Adı</label>
+                            <input asp-for="Name" class="form-control" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-4">
+                            <label asp-for="Price" class="form-label">Fiyat</label>
+                            <input asp-for="Price" class="form-control" />
+                            <span asp-validation-for="Price" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-4">
+                            <label asp-for="Stock" class="form-label">Stok</label>
+                            <input asp-for="Stock" class="form-control" />
+                            <span asp-validation-for="Stock" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-4">
+                            <label asp-for="Description" class="form-label">Açıklama</label>
+                            <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+                            <span asp-validation-for="Description" class="text-danger"></span>
+                        </div>
+
+                        <button type="submit" class="btn btn-success w-100">Ürünü Ekle</button>
+                    </form>
+
+                    @if (ViewBag.Message != null)
+                    {
+                        <div class="alert alert-success mt-4">@ViewBag.Message</div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

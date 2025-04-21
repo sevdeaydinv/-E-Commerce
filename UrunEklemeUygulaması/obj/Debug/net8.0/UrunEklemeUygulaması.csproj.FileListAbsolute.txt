@@ -1,0 +1,68 @@
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\UrunEklemeUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\UrunEklemeUygulaması.AssemblyInfoInputs.cache
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\UrunEklemeUygulaması.AssemblyInfo.cs
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\UrunEklemeUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\UrunEklemeUygulaması.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\UrunEklemeUygulaması.RazorAssemblyInfo.cache
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\UrunEklemeUygulaması.RazorAssemblyInfo.cs
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\bin\Debug\net8.0\appsettings.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\bin\Debug\net8.0\UrunEklemeUygulaması.staticwebassets.runtime.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\bin\Debug\net8.0\UrunEklemeUygulaması.staticwebassets.endpoints.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\bin\Debug\net8.0\UrunEklemeUygulaması.exe
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\bin\Debug\net8.0\UrunEklemeUygulaması.deps.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\bin\Debug\net8.0\UrunEklemeUygulaması.runtimeconfig.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\bin\Debug\net8.0\UrunEklemeUygulaması.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\bin\Debug\net8.0\UrunEklemeUygulaması.pdb
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\scopedcss\bundle\UrunEklemeUygulaması.styles.css
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\scopedcss\projectbundle\UrunEklemeUygulaması.bundle.scp.css
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\staticwebassets\msbuild.UrunEklemeUygulaması.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\staticwebassets\msbuild.UrunEklemeUygulaması.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\staticwebassets\msbuild.build.UrunEklemeUygulaması.props
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UrunEklemeUygulaması.props
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UrunEklemeUygulaması.props
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\UrunEklemeUygulaması.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\refint\UrunEklemeUygulaması.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\UrunEklemeUygulaması.pdb
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\UrunEklemeUygulaması.genruntimeconfig.cache
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\ref\UrunEklemeUygulaması.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\bin\Debug\net8.0\appsettings.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\bin\Debug\net8.0\UrunEklemeUygulaması.staticwebassets.endpoints.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\bin\Debug\net8.0\UrunEklemeUygulaması.staticwebassets.runtime.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\bin\Debug\net8.0\UrunEklemeUygulaması.exe
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\bin\Debug\net8.0\UrunEklemeUygulaması.deps.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\bin\Debug\net8.0\UrunEklemeUygulaması.runtimeconfig.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\bin\Debug\net8.0\UrunEklemeUygulaması.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\bin\Debug\net8.0\UrunEklemeUygulaması.pdb
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\UrunEklemeUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\UrunEklemeUygulaması.AssemblyInfoInputs.cache
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\UrunEklemeUygulaması.AssemblyInfo.cs
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\UrunEklemeUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\UrunEklemeUygulaması.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\UrunEklemeUygulaması.RazorAssemblyInfo.cache
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\UrunEklemeUygulaması.RazorAssemblyInfo.cs
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\scopedcss\bundle\UrunEklemeUygulaması.styles.css
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\scopedcss\projectbundle\UrunEklemeUygulaması.bundle.scp.css
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\staticwebassets\msbuild.UrunEklemeUygulaması.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\staticwebassets\msbuild.UrunEklemeUygulaması.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\staticwebassets\msbuild.build.UrunEklemeUygulaması.props
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UrunEklemeUygulaması.props
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UrunEklemeUygulaması.props
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\UrunEklemeUygulaması.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\refint\UrunEklemeUygulaması.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\UrunEklemeUygulaması.pdb
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\UrunEklemeUygulaması.genruntimeconfig.cache
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\UrunEklemeUygulaması\UrunEklemeUygulaması\UrunEklemeUygulaması\obj\Debug\net8.0\ref\UrunEklemeUygulaması.dll
