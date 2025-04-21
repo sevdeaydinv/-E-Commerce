@@ -1,0 +1,10 @@
+C:\Users\CASPER\OneDrive\Masaüstü\SepetUygulaması\UrunYonetımı\UrunYonetımı\bin\Debug\UrunYonetımı.exe.config
+C:\Users\CASPER\OneDrive\Masaüstü\SepetUygulaması\UrunYonetımı\UrunYonetımı\bin\Debug\UrunYonetımı.exe
+C:\Users\CASPER\OneDrive\Masaüstü\SepetUygulaması\UrunYonetımı\UrunYonetımı\bin\Debug\UrunYonetımı.pdb
+C:\Users\CASPER\OneDrive\Masaüstü\SepetUygulaması\UrunYonetımı\UrunYonetımı\obj\Debug\SepetUygulaması.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive\Masaüstü\SepetUygulaması\UrunYonetımı\UrunYonetımı\obj\Debug\UrunYonetımı.Form1.resources
+C:\Users\CASPER\OneDrive\Masaüstü\SepetUygulaması\UrunYonetımı\UrunYonetımı\obj\Debug\UrunYonetımı.Properties.Resources.resources
+C:\Users\CASPER\OneDrive\Masaüstü\SepetUygulaması\UrunYonetımı\UrunYonetımı\obj\Debug\SepetUygulaması.csproj.GenerateResource.cache
+C:\Users\CASPER\OneDrive\Masaüstü\SepetUygulaması\UrunYonetımı\UrunYonetımı\obj\Debug\SepetUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive\Masaüstü\SepetUygulaması\UrunYonetımı\UrunYonetımı\obj\Debug\UrunYonetımı.exe
+C:\Users\CASPER\OneDrive\Masaüstü\SepetUygulaması\UrunYonetımı\UrunYonetımı\obj\Debug\UrunYonetımı.pdb
