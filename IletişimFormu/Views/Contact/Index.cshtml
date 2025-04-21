@@ -1,0 +1,82 @@
+﻿@model IletişimFormu.Models.Contact
+
+@{
+    ViewData["Title"] = "İletişim";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="form-box p-4 rounded shadow-lg">
+                <h2 class="text-center mb-4 text-gradient">Bize Ulaşın</h2>
+
+                <form asp-action="Index" method="post">
+
+                    <div class="mb-3">
+                        <label asp-for="Name" class="form-label fw-bold text-dark">Ad Soyad</label>
+                        <input asp-for="Name" class="form-control form-control-lg" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Email" class="form-label fw-bold text-dark">E-Posta</label>
+                        <input asp-for="Email" class="form-control form-control-lg" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Message" class="form-label fw-bold text-dark">Mesajınız</label>
+                        <textarea asp-for="Message" rows="5" class="form-control form-control-lg"></textarea>
+                        <span asp-validation-for="Message" class="text-danger"></span>
+                    </div>
+
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-primary animate-btn px-5 py-2">
+                            <i class="fas fa-paper-plane me-2"></i> Gönder
+                        </button>
+                    </div>
+
+                    @if (ViewBag.Message != null)
+                    {
+                        <div class="alert alert-success mt-3">@ViewBag.Message</div>
+                    }
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    body {
+        background: linear-gradient(to right, #f8f9fa, #e3f2fd);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .form-box {
+        background-color: #ffffffd9;
+        border-left: 5px solid #0d6efd;
+    }
+
+    .text-gradient {
+        background: linear-gradient(to right, #0d6efd, #6610f2);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-weight: bold;
+    }
+
+    .animate-btn {
+        transition: all 0.3s ease;
+    }
+
+        .animate-btn:hover {
+            background-color: #0b5ed7;
+            transform: scale(1.05);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+        }
+</style>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

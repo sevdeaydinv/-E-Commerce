@@ -1,0 +1,82 @@
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\bin\Debug\net8.0\appsettings.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\bin\Debug\net8.0\IletişimFormu.staticwebassets.runtime.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\bin\Debug\net8.0\IletişimFormu.staticwebassets.endpoints.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\bin\Debug\net8.0\IletişimFormu.exe
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\bin\Debug\net8.0\IletişimFormu.deps.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\bin\Debug\net8.0\IletişimFormu.runtimeconfig.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\bin\Debug\net8.0\IletişimFormu.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\bin\Debug\net8.0\IletişimFormu.pdb
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\IletişimFormu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\IletişimFormu.AssemblyInfoInputs.cache
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\IletişimFormu.AssemblyInfo.cs
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\IletişimFormu.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\IletişimFormu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\IletişimFormu.RazorAssemblyInfo.cache
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\IletişimFormu.RazorAssemblyInfo.cs
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\scopedcss\bundle\IletişimFormu.styles.css
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\scopedcss\projectbundle\IletişimFormu.bundle.scp.css
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\staticwebassets\msbuild.IletişimFormu.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\staticwebassets\msbuild.IletişimFormu.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\staticwebassets\msbuild.build.IletişimFormu.props
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IletişimFormu.props
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IletişimFormu.props
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\IletişimFormu.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\refint\IletişimFormu.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\IletişimFormu.pdb
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\IletişimFormu.genruntimeconfig.cache
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\ref\IletişimFormu.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\bin\Debug\net8.0\MailKit.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\bin\Debug\net8.0\MimeKit.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\IletişimFormu.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörü\web editörü\IletişimFormu\IletişimFormu\obj\Debug\net8.0\Ileti_im.BFF77632.Up2Date
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\bin\Debug\net8.0\appsettings.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\bin\Debug\net8.0\IletişimFormu.staticwebassets.endpoints.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\bin\Debug\net8.0\IletişimFormu.staticwebassets.runtime.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\bin\Debug\net8.0\IletişimFormu.exe
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\bin\Debug\net8.0\IletişimFormu.deps.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\bin\Debug\net8.0\IletişimFormu.runtimeconfig.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\bin\Debug\net8.0\IletişimFormu.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\bin\Debug\net8.0\IletişimFormu.pdb
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\bin\Debug\net8.0\MailKit.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\bin\Debug\net8.0\MimeKit.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\IletişimFormu.csproj.AssemblyReference.cache
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\IletişimFormu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\IletişimFormu.AssemblyInfoInputs.cache
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\IletişimFormu.AssemblyInfo.cs
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\IletişimFormu.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\IletişimFormu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\IletişimFormu.RazorAssemblyInfo.cache
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\IletişimFormu.RazorAssemblyInfo.cs
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\scopedcss\bundle\IletişimFormu.styles.css
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\scopedcss\projectbundle\IletişimFormu.bundle.scp.css
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\staticwebassets\msbuild.IletişimFormu.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\staticwebassets\msbuild.IletişimFormu.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\staticwebassets\msbuild.build.IletişimFormu.props
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IletişimFormu.props
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IletişimFormu.props
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\Ileti_im.BFF77632.Up2Date
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\IletişimFormu.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\refint\IletişimFormu.dll
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\IletişimFormu.pdb
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\IletişimFormu.genruntimeconfig.cache
+C:\Users\CASPER\OneDrive\Masaüstü\webeditörhafta5\IletişimFormu\IletişimFormu\IletişimFormu\obj\Debug\net8.0\ref\IletişimFormu.dll
