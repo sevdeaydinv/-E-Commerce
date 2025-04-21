@@ -64,3 +64,13 @@ Projede hem *frontend (arayüz)* hem de *backend (veri yönetimi)* süreçleri u
 > Bu proje eğitim amaçlı olarak oluşturulmuştur. Geliştirilmeye ve güncellenmeye devam edilmektedir.
 
 ---
+⚙️ *Nasıl Kurulur?*
+
+1. Bu repoyu indir veya klonla:
+   ```bash
+   git clone https://github.com/sevdeaydinv/-E-Commerce.git
+2.	Visual Studio’da aç
+3.	appsettings.json içinde veritabanı bağlantı ayarlarını yap
+4.	KodlamaDunyasi.sql dosyasını SQL Server’da çalıştır
+5.	Uygulamayı başlat (Ctrl + F5)
+
