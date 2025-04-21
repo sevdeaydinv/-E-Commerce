@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KodlamaDünyasıDBModelStoreContainer" CdmEntityContainer="KodlamaDünyasıDBEntities">
+    <EntitySetMapping Name="Kullanıcılar">
+      <EntityTypeMapping TypeName="KodlamaDünyasıDBModel.Kullanıcılar">
+        <MappingFragment StoreEntitySet="Kullanıcılar">
+          <ScalarProperty Name="KullanıcıID" ColumnName="KullanıcıID" />
+          <ScalarProperty Name="AdSoyad" ColumnName="AdSoyad" />
+          <ScalarProperty Name="Eposta" ColumnName="Eposta" />
+          <ScalarProperty Name="Şifre" ColumnName="Şifre" />
+          <ScalarProperty Name="Rol" ColumnName="Rol" />
+          <ScalarProperty Name="OluşturulmaTarihi" ColumnName="OluşturulmaTarihi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
